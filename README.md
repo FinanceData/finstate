@@ -15,9 +15,9 @@ file(csv) | contents(en) | contents(ko) | rows
 **PL_CON.csv.gz** | Profit and loss, Consolidated | 연결 손익계산서 | 42,707
 **PL_SEP.csv.gz** | Profit and loss, Separate | 별도 손익계산서 | 40,127 
 **BS_CON.csv.gz** | Balance Sheet, Consolidated | 연결 재무상태표 | 752,994 
-**BS_SEP.csv.gz** | Balance Sheet, Separate | 개별 재무상태표 | 561,997
+**BS_SEP.csv.gz** | Balance Sheet, Separate | 별도 재무상태표 | 561,997
 **CF_CON.csv.gz** | Cash Flow, Consolidated | 연결 현금 흐름표 | 802,533 
-**CF_SEP.csv.gz** | Cash Flow, Separate | 개별 현금 흐름표 | 567,128 
+**CF_SEP.csv.gz** | Cash Flow, Separate | 별도 현금 흐름표 | 567,128 
 
 ## updates
 2018-11-01 Last update
